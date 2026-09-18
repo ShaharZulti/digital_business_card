@@ -4,7 +4,7 @@ A modern, responsive digital business card and portfolio built purely with **sem
 
 ## Live Demo & Repository
 - **GitHub Repository**: [https://github.com/ShaharZulti/digital_business_card](https://github.com/ShaharZulti/digital_business_card)
-- **GitHub Pages Live Site**: `https://shaharzulti.github.io/digital_business_card/` *(Once enabled under Settings > Pages)*
+- **GitHub Pages Live Site**: `https://shaharzulti.github.io/digital_business_card/`
 
 ---
 
@@ -47,28 +47,3 @@ digital_business_card/
 └── README.md            # Documentation & submission details
 ```
 
----
-
-## How to Deploy to GitHub Pages
-1. Push this repository to GitHub:
-   ```bash
-   git add .
-   git commit -m "feat: complete digital business card"
-   git push origin main
-   ```
-2. In your GitHub repository:
-   - Go to **Settings** > **Pages**.
-   - Under **Build and deployment** > **Source**, choose **Deploy from a branch**.
-   - Select branch: `main` / folder: `/ (root)`.
-   - Click **Save**.
-3. Your site will be live at:
-   `https://shaharzulti.github.io/digital_business_card/`
-
----
-
-## How to Create the ZIP Submission for Moodle
-Run this command inside the project directory:
-```bash
-zip -r Shahar_Zulti_Exercise1.zip index.html style.css assets/ README.md
-```
-Upload `Shahar_Zulti_Exercise1.zip` along with the repository URL and live GitHub Pages link to Moodle.
